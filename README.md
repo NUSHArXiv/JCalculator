@@ -1,4 +1,7 @@
 # JCalculator
+<p align="center">
+  <img src="calculator.jpg" align="center" height="200" />
+</p>
 
 A calculator app developed in Java and JavaFX with FXML.
 
